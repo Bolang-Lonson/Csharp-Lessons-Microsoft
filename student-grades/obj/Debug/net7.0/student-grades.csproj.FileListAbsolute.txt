@@ -1,0 +1,15 @@
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\bin\Debug\net7.0\student-grades.exe
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\bin\Debug\net7.0\student-grades.deps.json
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\bin\Debug\net7.0\student-grades.runtimeconfig.json
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\bin\Debug\net7.0\student-grades.dll
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\bin\Debug\net7.0\student-grades.pdb
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.csproj.AssemblyReference.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.AssemblyInfoInputs.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.AssemblyInfo.cs
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.csproj.CoreCompileInputs.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.dll
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\refint\student-grades.dll
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.pdb
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\student-grades.genruntimeconfig.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\student-grades\obj\Debug\net7.0\ref\student-grades.dll
