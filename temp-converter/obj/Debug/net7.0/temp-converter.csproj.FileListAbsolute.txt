@@ -1,0 +1,15 @@
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\bin\Debug\net7.0\temp-converter.exe
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\bin\Debug\net7.0\temp-converter.deps.json
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\bin\Debug\net7.0\temp-converter.runtimeconfig.json
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\bin\Debug\net7.0\temp-converter.dll
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\bin\Debug\net7.0\temp-converter.pdb
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.csproj.AssemblyReference.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.AssemblyInfoInputs.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.AssemblyInfo.cs
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.csproj.CoreCompileInputs.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.dll
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\refint\temp-converter.dll
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.pdb
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\temp-converter.genruntimeconfig.cache
+C:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\temp-converter\obj\Debug\net7.0\ref\temp-converter.dll
