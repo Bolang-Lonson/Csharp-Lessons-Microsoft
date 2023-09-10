@@ -1,6 +1,6 @@
+*.cs
+
 # dependencies
 .dll
 .pdb
 .fake
-
-*.cs
