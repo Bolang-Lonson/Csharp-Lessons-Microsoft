@@ -1,0 +1,15 @@
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\bin\Debug\net7.0\Hello world.exe
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\bin\Debug\net7.0\Hello world.deps.json
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\bin\Debug\net7.0\Hello world.runtimeconfig.json
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\bin\Debug\net7.0\Hello world.dll
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\bin\Debug\net7.0\Hello world.pdb
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.csproj.AssemblyReference.cache
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfoInputs.cache
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfo.cs
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.csproj.CoreCompileInputs.cache
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.dll
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\refint\Hello world.dll
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.pdb
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\Hello world.genruntimeconfig.cache
+c:\Users\New User\OneDrive\Desktop\Csharp lessons\Csharp-Lessons-Microsoft\Hello world\obj\Debug\net7.0\ref\Hello world.dll
