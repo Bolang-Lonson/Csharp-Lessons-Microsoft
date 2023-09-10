@@ -1,3 +1,4 @@
 # dependencies
 .dll
 .pdb
+.fake
